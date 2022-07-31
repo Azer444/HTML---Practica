@@ -1,0 +1,72 @@
+.line{
+    height: 6px;
+    background-color:darkslategrey;
+}
+.head{
+    
+    margin-top: 0cm;
+    margin-left: 1.5cm;
+    font-size: 35px;
+    
+}
+.headd{
+    margin-top: -0.50cm;
+    margin-left: 1.5cm;
+    font-size: 18px;
+}
+.mail{
+    margin-left: 13cm;
+    margin-top: -15cm;
+}
+.profile{
+    margin-left: 1.5cm;
+}
+.skills{
+    margin-left: 1.5cm;
+}
+.tecnical{
+  margin-top: 0.90cm;
+  margin-left: 0.4cm;
+}
+.html{
+    margin-left: 4cm;
+    margin-top: -1.5cm;
+    
+}
+.java{
+    margin-left:8cm;
+    margin-top: -2cm;
+}
+.linux{
+    margin-left:12cm;
+    margin-top: -1.90cm;
+    
+    
+}
+.experince{
+    margin-left: 0.4cm;
+}
+.facebook{
+    margin-left:4cm;
+    margin-top: -1.05cm;
+}
+.senior{
+    margin-left:4cm;
+    margin-top: -0.5cm;
+}
+.about{
+    margin-left:4cm;
+    margin-top: -0.5cm;
+}
+.profileabout{
+    margin-left:3.5cm;
+    margin-top: -1cm;
+}
+.number{
+    margin-left: 13cm;
+    
+}
+.pdf{
+    margin-left: 13cm;
+   
+}
