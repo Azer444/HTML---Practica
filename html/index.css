@@ -3,11 +3,11 @@
     background-color:darkslategrey;
 }
 .head{
-    
+
     margin-top: 0cm;
     margin-left: 1.5cm;
     font-size: 35px;
-    
+
 }
 .headd{
     margin-top: -0.50cm;
@@ -15,11 +15,12 @@
     font-size: 18px;
 }
 .mail{
-    margin-left: 13cm;
+    margin-left: 90%;
     margin-top: -15cm;
 }
 .profile{
     margin-left: 1.5cm;
+    margin-top: 1cm;
 }
 .skills{
     margin-left: 1.5cm;
@@ -31,7 +32,7 @@
 .html{
     margin-left: 4cm;
     margin-top: -1.5cm;
-    
+
 }
 .java{
     margin-left:8cm;
@@ -40,8 +41,8 @@
 .linux{
     margin-left:12cm;
     margin-top: -1.90cm;
-    
-    
+
+
 }
 .experince{
     margin-left: 0.4cm;
@@ -63,10 +64,28 @@
     margin-top: -1cm;
 }
 .number{
-    margin-left: 13cm;
-    
+    margin-left: 90%;
+
 }
 .pdf{
-    margin-left: 13cm;
-   
+    margin-left: 90%;
+    color: aliceblue;
+    background-color: grey;
+
+} 
+.interface{
+    margin-left:11cm;
+    margin-top: -3.9cm;
+}
+.project{
+    margin-left:18cm;
+    margin-top: -3.9cm;
+}
+.web{
+    margin-left:4cm;
+    margin-top: -1cm;
+}
+.skill{
+    margin-left: 1.5cm;
+    margin-top: 1cm;
 }
